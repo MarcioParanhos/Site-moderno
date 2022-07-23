@@ -128,6 +128,10 @@
     color: #0b30e1;
 }
 
+.icon-content {
+    cursor: pointer;
+}
+
 .img-content img {
     width: 50%;
     border-radius: 30px;
