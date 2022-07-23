@@ -150,6 +150,18 @@
     justify-content: space-around
 }
 
+.info-clients  img {
+    width: 200px;
+}
+
+.img-infoCliets1 {
+    margin-right: 180px;
+}
+
+.img-infoCliets2 {
+    margin-left: 180px;
+}
+
 .info-clients aside {
     display: flex;
     border-top-left-radius: 35px;
