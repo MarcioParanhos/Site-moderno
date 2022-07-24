@@ -60,6 +60,15 @@
     cursor: pointer;
 }
 
+.after::after{
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-left: 10px;
+    background: url("img/baixo.svg");
+}
+
 /* MAIN */
 .main-content {
     flex-wrap: wrap;
@@ -289,7 +298,7 @@ a {
         cursor: pointer;
     }
 
-    .first-a, .secound-a {
+    .first-a, .after {
         display: none;
     }
 
