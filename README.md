@@ -13,5 +13,5 @@ Abaixo algumas imagens de demonstração do site.
 <img src="https://github.com/TheHeells/Site-moderno/blob/master/img/siteModerno3.jpeg" />
 </div>
 <div align="center">
-<img src=https://github.com/TheHeells/Site-moderno/blob/master/img/siteModerno4.jpeg" />
+<img src="https://github.com/TheHeells/Site-moderno/blob/master/img/siteModerno4.jpeg" />
 </div>
